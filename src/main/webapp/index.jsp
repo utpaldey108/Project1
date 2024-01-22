@@ -12,7 +12,7 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 25px;
+      font-size: 35px;
       color: #077;
       line-height: 29px;
       }
@@ -199,7 +199,7 @@
         <p class="top-info"><b>Thank you for your interest in working with us. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
         </div>
         
-<div align="center">
+<div align="left">
 
   <p> We will get back to you shortly</p></div>
         <div class="item">
