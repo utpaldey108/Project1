@@ -13,14 +13,14 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 50px;
-      color: #077;
+      color: #FFF;
       line-height: 29px;
       }
       h1 {
       position: absolute;
       margin: 0;
       font-size: 70px;
-      color: #FFF;
+      color: #000;
       z-index: 2;
       }
       p.top-info {
@@ -37,7 +37,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FFF;
+      background: #000;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
