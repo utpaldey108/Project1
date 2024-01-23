@@ -12,7 +12,7 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 35px;
+      font-size: 50px;
       color: #077;
       line-height: 29px;
       }
@@ -52,7 +52,7 @@
       }
       .banner::after {
       content: "";
-      background-color: steelblue;
+      background-color: hotpink;
       position: absolute;
       width: 100%;
       height: 100%;
