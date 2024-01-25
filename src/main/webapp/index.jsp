@@ -13,14 +13,14 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 50px;
-      color: #000;
+      color: #FFF;
       line-height: 29px;
       }
       h1 {
       position: absolute;
       margin: 0;
       font-size: 70px;
-      color: #000;
+      color: #FFF;
       z-index: 2;
       }
       p.top-info {
