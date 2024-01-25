@@ -12,14 +12,14 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 50px;
+      font-size: 20px;
       color: #FFF;
       line-height: 29px;
       }
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 70px;
+      font-size: 100px;
       color: #FFF;
       z-index: 2;
       }
