@@ -20,7 +20,7 @@
       position: absolute;
       margin: 0;
       font-size: 90px;
-      color: #FFF;
+      color: hotpink;
       z-index: 2;
       }
       p.top-info {
