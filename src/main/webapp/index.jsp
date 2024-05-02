@@ -19,7 +19,7 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 190px;
+      font-size: 90px;
       color: #COCOCO;
       z-index: 2;
       }
@@ -52,7 +52,7 @@
       }
       .banner::after {
       content: "";
-      background-color: green;
+      background-color: #faebe7;
       position: absolute;
       width: 100%;
       height: 100%;
