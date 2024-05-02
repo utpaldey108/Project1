@@ -19,8 +19,8 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 120px;
-      color: #000;
+      font-size: 90px;
+      color: #COCOCO;
       z-index: 2;
       }
       p.top-info {
