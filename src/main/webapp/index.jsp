@@ -52,7 +52,7 @@
       }
       .banner::after {
       content: "";
-      background-color: blue;
+      background-color: steelblue;
       position: absolute;
       width: 100%;
       height: 100%;
