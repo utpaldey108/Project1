@@ -19,7 +19,7 @@
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 20px;
+      font-size: 120px;
       color: #FFF;
       z-index: 2;
       }
