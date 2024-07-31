@@ -12,15 +12,15 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 120px;
+      font-size: 40px;
       color: #012;
       line-height: 29px;
       }
       h1 {
       position: absolute;
       margin: 0;
-      font-size: 80px;
-      color: #FFF;
+      font-size: 200px;
+      color: #000;
       z-index: 2;
       }
       p.top-info {
@@ -42,7 +42,7 @@
       }
      .banner {
       position: relative;
-      height: 200px;
+      height: 400px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
