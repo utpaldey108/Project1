@@ -12,8 +12,8 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 100px;
-      color: #000;
+      font-size: 120px;
+      color: #012;
       line-height: 29px;
       }
       h1 {
@@ -52,7 +52,7 @@
       }
       .banner::after {
       content: "";
-      background-color: hotpink;
+      background-color: blue;
       position: absolute;
       width: 100%;
       height: 100%;
@@ -91,7 +91,7 @@
       }
       .item i, input[type="date"]::-webkit-calendar-picker-indicator {
       position: absolute;
-      font-size: 20px;
+      font-size: 40px;
       color: #a9a9a9;
       }
       .item i {
@@ -159,7 +159,7 @@
       border: none;
       border-radius: 5px;
       background: #000;
-      font-size: 16px;
+      font-size: 20px;
       font-weight: 900;
       color: #FAEBE7;
       cursor: pointer;
