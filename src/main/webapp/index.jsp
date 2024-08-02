@@ -37,8 +37,8 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FFF;
-      box-shadow: 0 0 25px 0 #000;
+      background: #ffffff;
+      box-shadow: 0 0 25px 0 #000000;
       }
      .banner {
       position: relative;
@@ -59,7 +59,7 @@
       }
       input, select, textarea {
       margin-bottom: 10px;
-      border: 1px solid #ccc;
+      border: 1px solid #da801a;
       border-radius: 3px;
       }
       input {
@@ -79,8 +79,8 @@
       }
       .item input:hover, .item select:hover {
       border: 1px solid transparent;
-      box-shadow: 0 0 6px 0 #1c87c9;
-      color: #1c87c9;
+      box-shadow: 0 0 6px 0 #c94a1c;
+      color: #c9ac1c;
       }
       .item {
       position: relative;
@@ -119,7 +119,7 @@
       }
       span.required {
       margin-left: 0;
-      color: #FAEBE7;
+      color: #ea552c;
       }
       label.radio:before {
       content: "";
@@ -131,7 +131,7 @@
       border: 2px solid #ccc;
       }
       input[type=radio]:checked + label:before, label.radio:hover:before {
-      border: 2px solid #1c87c9;
+      border: 2px solid #c9921c;
       }
       label.radio:after {
       content: "";
@@ -158,7 +158,7 @@
       padding: 10px;
       border: none;
       border-radius: 5px;
-      background: #000;
+      background: #e00e0e;
       font-size: 20px;
       font-weight: 900;
       color: #FAEBE7;
