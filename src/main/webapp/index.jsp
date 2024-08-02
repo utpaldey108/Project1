@@ -37,7 +37,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #ffffff;
+      background: #9a2121;
       box-shadow: 0 0 25px 0 #000000;
       }
      .banner {
@@ -192,7 +192,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>DevOps Job Application Form</h1>
+          <h1>Pritam Job Application Form</h1>
         </div>
         <div align="left">
  
