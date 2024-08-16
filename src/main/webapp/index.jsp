@@ -196,7 +196,7 @@
         </div>
         <div align="left">
  
-        <p class="top-info"><b>Thank you for your interest in working with us. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
+        <p class="top-info"><b>Thank u for your interest in working with us. <br/> Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</b></p>
         </div>
         
 <div align="left">
